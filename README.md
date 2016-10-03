@@ -4,5 +4,4 @@
 
 This is responsive popup by myself with jQuery.
 
-
 Demo: http://www.muhammadadamfirdaus.com/
